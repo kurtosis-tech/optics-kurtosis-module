@@ -1,4 +1,6 @@
 # TBD
+### Features
+* Optimize Dockerfile, shrinking the output image size from 330 MB -> 100 MB
 
 # 0.1.2
 ### Fixes
