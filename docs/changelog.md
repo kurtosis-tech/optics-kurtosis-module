@@ -1,4 +1,6 @@
 # TBD
+
+# 0.1.2
 ### Fixes
 * Fixed `build.sh` not publishing tagged version
 
